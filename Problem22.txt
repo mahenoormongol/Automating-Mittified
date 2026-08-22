@@ -1,0 +1,5 @@
+Alright so the problem is that we have to ramp down the images that it is creating, also we have to add  away so that i can publish content mauall and mark is done as well itshouldnt only be automatic for now and also the names of the folder should be that of the video title rather than the channel id becuase otherwise itis hard to navigate
+Also pleaser ememebr to generate the text data first and then generartet eh images at the end so atleast wqhen it is only analtzed and some problem occurs atleast i have that caption and the hashtags atleast in the ui to access
+I want to mark it done so it moves to published because i might have manually already publshed it and no from here any future there folder should be the same namea s that of the video title
+Please get rid of the fucking videos that are shorter than 5 minutes do not add them in and also prioritize the videos who have higher comments, make their data first and then move to the other videos please
+And also it should strictly be able to get the right time of upload and hide the one that are not from teh past 24 hours and get them out of the queue and not show them on the dashboard

@@ -1,0 +1,20 @@
+The picture that was being screenshotted from the youtube is not of the youtube it is turnicated, it should first make it full view and then make it, seocnly the problem is that, the prompt tha tit is sending is not th eprompt tha tis saved for hte image generation in the prompt section which ris resulting in very bad pitures being made i eman it has the prompt here (Generate an Instagram post image based on this content:
+
+TOPIC: {topic}
+SUMMARY: {summary}
+POST TYPE: {post_type}
+MOOD: {sentiment}
+
+Requirements:
+- Match the exact visual style of the reference image I uploaded
+- 1080x1080 square format for Instagram feed
+- Bold, eye-catching design that stops the scroll
+- Include relevant visual elements for the topic
+- Use the same color palette, typography style, and layout as the reference
+- DO NOT include any real person's face or likeness
+- Include the text headline: {headline}
+- Pakistani cultural aesthetic where appropriate
+- Professional, branded look consistent with Mittified style)
+which it should full based on the output it got from the ask but it is not doing that, obviously each slide would have that but its not doing that, so please fix that too
+
+it should copy and get all the data from the ask properly dont fuck it up man for the caption also this bullshit 13:48:43 | ERROR    | src.pipeline - Pipeline failed for amoqKJzlSaU: 'people' as soon as this happened all the hardwork went invain istg you can see th eyoutube screen shot how they were taken in E:\Automating Mittified\data\media\content\amoqKJzlSaU\frames so you can understand how fuckedup the picturers were and you can also see it is not numbering the slides propelry and it is not in continuiting and using transition words even tho the content is from the same person E:\Automating Mittified\data\media\content\amoqKJzlSaU\slides 
