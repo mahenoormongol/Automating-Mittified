@@ -161,3 +161,21 @@ The project connects multiple stages of the content-production process:
 **Discovery → Analysis → Generation → Design → Video Processing → Review → Publishing**
 
 Rather than automating only one individual task, the project combines these stages into a connected content-production pipeline.
+
+# Impact & Results
+
+This automation was developed and used as part of the content-production system behind our Instagram presence, helping us scale the process of discovering, analyzing, creating, and preparing content for publication.
+
+Through this system and the content workflow built around it, we were able to grow the Instagram account to **30,000+ subscribers/followers**.
+
+The project helped turn what would otherwise be a highly manual content-production process into a more structured and automated workflow. Instead of manually monitoring multiple channels, researching stories, extracting key information, creating visual content, and preparing different formats, these stages could be connected through a single system.
+
+The experience also demonstrated how AI, automation, and content systems can work together to support real-world audience growth at scale.
+
+### Key Outcome
+
+**30,000+ Instagram followers**
+
+The achievement provided practical validation of the system's ability to support a real content operation rather than functioning only as a technical prototype.
+
+<img width="296" height="1595" alt="image" src="https://github.com/user-attachments/assets/d5dcc761-f6f8-447d-a392-a9342b5d5ac8" />
