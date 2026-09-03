@@ -87,7 +87,7 @@ Trending topics can be selected as another source of content. The system can gat
 
 This extends the system beyond monitoring predefined YouTube channels and allows it to respond to current trends.
 
-<img width="1899" height="845" alt="image" src="https://github.com/user-attachments/assets/f6ca7b1d-8460-471e-b616-790712865aa1" />
+<img width="1866" height="857" alt="image" src="https://github.com/user-attachments/assets/632a5917-2830-46eb-9af7-42981a9da7e3" />
 
 
 ### 7. Content Queue
